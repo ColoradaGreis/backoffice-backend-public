@@ -1,0 +1,477 @@
+{
+    "successful": true,
+    "message": "Mock query successful.",
+    "data": [
+        {
+            "active": true,
+            "baseProductId": null,
+            "clientId": "fakeClient123",
+            "clientProductId": "fakeProduct001",
+            "productId": "DEV_fakeProduct001",
+            "productName": "Corteza Dental Tabletas Ortodoncia",
+            "prices": {},
+            "discounts": {},
+            "metadata": {
+              "EAN": "1234567890123",
+              "brand": "Corteza",
+              "imageUrl": "https://example.com/products/imagen-fake1.jpg"
+            },
+            "storesIds": []
+          },
+          {
+            "active": true,
+            "baseProductId": null,
+            "clientId": "fakeClient123",
+            "clientProductId": "fakeProduct002",
+            "productId": "DEV_fakeProduct002",
+            "productName": "Aceite Soleado 1 Lt",
+            "prices": {},
+            "discounts": {},
+            "metadata": {
+              "EAN": "9876543210987",
+              "measures": [
+                {
+                  "value": 1,
+                  "type": "liters"
+                }
+              ],
+              "brand": "Soleado",
+              "imageUrl": "https://example.com/products/imagen-fake2.jpg"
+            },
+            "storesIds": []
+          },
+          {
+            "active": true,
+            "baseProductId": null,
+            "clientId": "fakeClient123",
+            "clientProductId": "fakeProduct003",
+            "productId": "DEV_fakeProduct003",
+            "productName": "Agua con Gas Ficticia 600ml",
+            "prices": {
+              "DEV_fakeProduct003": 750
+            },
+            "discounts": {},
+            "metadata": {
+              "EAN": "1230984567890",
+              "measures": [
+                {
+                  "value": 0.6,
+                  "type": "liters"
+                }
+              ],
+              "brand": "AquaPura",
+              "imageUrl": "https://example.com/products/imagen-fake3.jpg"
+            },
+            "storesIds": ["DEV_fakeStore001"]
+          },
+          {
+            "active": true,
+            "baseProductId": null,
+            "clientId": "fakeClient123",
+            "clientProductId": "fakeProduct004",
+            "productId": "DEV_fakeProduct004",
+            "productName": "Agua sin Gas Ficticia 600ml",
+            "prices": {
+              "DEV_fakeProduct004": 850
+            },
+            "discounts": {},
+            "metadata": {
+              "EAN": "9876123450987",
+              "measures": [
+                {
+                  "value": 0.6,
+                  "type": "liters"
+                }
+              ],
+              "brand": "AquaPura",
+              "imageUrl": "https://example.com/products/imagen-fake4.jpg"
+            },
+            "storesIds": ["DEV_fakeStore001", "DEV_fakeStore002"]
+          },
+          {
+            "active": true,
+            "baseProductId": null,
+            "clientId": "fakeClient123",
+            "clientProductId": "fakeProduct005",
+            "productId": "DEV_fakeProduct005",
+            "productName": "Alfajor DulceBite 40 gr",
+            "prices": {
+              "DEV_fakeProduct005": 900
+            },
+            "discounts": {},
+            "metadata": {
+              "EAN": "1234509876543",
+              "measures": [
+                {
+                  "value": 40,
+                  "type": "grams"
+                }
+              ],
+              "brand": "DulceBite",
+              "imageUrl": "https://example.com/products/imagen-fake5.jpg"
+            },
+            "storesIds": []
+          },
+      {
+        "active": true,
+        "baseProductId": null,
+        "clientId": "fakeClient123",
+        "clientProductId": "fakeProduct006",
+        "productId": "DEV_fakeProduct006",
+        "productName": "Café Negro Premium 500g",
+        "prices": {
+          "DEV_fakeProduct006": 3500
+        },
+        "discounts": {},
+        "metadata": {
+          "EAN": "1029384756102",
+          "measures": [
+            {
+              "value": 500,
+              "type": "grams"
+            }
+          ],
+          "brand": "CaféSol",
+          "imageUrl": "https://example.com/products/imagen-fake6.jpg"
+        },
+        "storesIds": []
+      },
+      {
+        "active": true,
+        "baseProductId": null,
+        "clientId": "fakeClient123",
+        "clientProductId": "fakeProduct007",
+        "productId": "DEV_fakeProduct007",
+        "productName": "Cereal CrocMix 700g",
+        "prices": {
+          "DEV_fakeProduct007": 2800
+        },
+        "discounts": {},
+        "metadata": {
+          "EAN": "1092837465102",
+          "measures": [
+            {
+              "value": 700,
+              "type": "grams"
+            }
+          ],
+          "brand": "CrocMix",
+          "imageUrl": "https://example.com/products/imagen-fake7.jpg"
+        },
+        "storesIds": []
+      },
+      {
+        "active": true,
+        "baseProductId": null,
+        "clientId": "fakeClient123",
+        "clientProductId": "fakeProduct008",
+        "productId": "DEV_fakeProduct008",
+        "productName": "Chocolate Cacao Delicioso 100g",
+        "prices": {
+          "DEV_fakeProduct008": 2000
+        },
+        "discounts": {},
+        "metadata": {
+          "EAN": "9871234567801",
+          "measures": [
+            {
+              "value": 100,
+              "type": "grams"
+            }
+          ],
+          "brand": "CacaoDelicioso",
+          "imageUrl": "https://example.com/products/imagen-fake8.jpg"
+        },
+        "storesIds": []
+      },
+      {
+        "active": true,
+        "baseProductId": null,
+        "clientId": "fakeClient123",
+        "clientProductId": "fakeProduct009",
+        "productId": "DEV_fakeProduct009",
+        "productName": "Pasta Integral 500g",
+        "prices": {
+          "DEV_fakeProduct009": 1200
+        },
+        "discounts": {},
+        "metadata": {
+          "EAN": "5647382910012",
+          "measures": [
+            {
+              "value": 500,
+              "type": "grams"
+            }
+          ],
+          "brand": "FitPasta",
+          "imageUrl": "https://example.com/products/imagen-fake9.jpg"
+        },
+        "storesIds": []
+      },  
+      {
+        "active": true,
+        "baseProductId": null,
+        "clientId": "fakeClient123",
+        "clientProductId": "fakeProduct010",
+        "productId": "DEV_fakeProduct010",
+        "productName": "Jugo Tropical Frutal 1L",
+        "prices": {
+          "DEV_fakeProduct010": 1800
+        },
+        "discounts": {},
+        "metadata": {
+          "EAN": "1234567890112",
+          "measures": [
+            {
+              "value": 1,
+              "type": "liters"
+            }
+          ],
+          "brand": "FrutiTrop",
+          "imageUrl": "https://example.com/products/imagen-fake10.jpg"
+        },
+        "storesIds": []
+      },
+      {
+        "active": true,
+        "baseProductId": null,
+        "clientId": "fakeClient123",
+        "clientProductId": "fakeProduct011",
+        "productId": "DEV_fakeProduct011",
+        "productName": "queso mantecoso 250gr",
+        "prices": {
+          "DEV_fakeProduct011": 5000
+        },
+        "discounts": {},
+        "metadata": {
+          "EAN": "2345678901123",
+          "measures": [
+            {
+              "value": 250,
+              "type": "grams"
+            }
+          ],
+          "brand": "quesoMax",
+          "imageUrl": "https://example.com/products/imagen-fake11.jpg"
+        },
+        "storesIds": []
+      },
+      {
+        "active": true,
+        "baseProductId": null,
+        "clientId": "fakeClient123",
+        "clientProductId": "fakeProduct012",
+        "productId": "DEV_fakeProduct012",
+        "productName": "Shampoo Cabello Seco 400ml",
+        "prices": {
+          "DEV_fakeProduct012": 3500
+        },
+        "discounts": {},
+        "metadata": {
+          "EAN": "3456789011234",
+          "measures": [
+            {
+              "value": 400,
+              "type": "milliliters"
+            }
+          ],
+          "brand": "HairPlus",
+          "imageUrl": "https://example.com/products/imagen-fake12.jpg"
+        },
+        "storesIds": []
+      },
+      {
+        "active": true,
+        "baseProductId": null,
+        "clientId": "fakeClient123",
+        "clientProductId": "fakeProduct013",
+        "productId": "DEV_fakeProduct013",
+        "productName": "Galletas de Chocolate 150g",
+        "prices": {
+          "DEV_fakeProduct013": 1600
+        },
+        "discounts": {},
+        "metadata": {
+          "EAN": "4567890121345",
+          "measures": [
+            {
+              "value": 150,
+              "type": "grams"
+            }
+          ],
+          "brand": "ChocoCrunch",
+          "imageUrl": "https://example.com/products/imagen-fake13.jpg"
+        },
+        "storesIds": []
+      },
+      {
+        "active": true,
+        "baseProductId": null,
+        "clientId": "fakeClient123",
+        "clientProductId": "fakeProduct014",
+        "productId": "DEV_fakeProduct014",
+        "productName": "Crema Variedades 200ml",
+        "prices": {
+          "DEV_fakeProduct014": 4800
+        },
+        "discounts": {},
+        "metadata": {
+          "EAN": "5678901231456",
+          "measures": [
+            {
+              "value": 200,
+              "type": "milliliters"
+            }
+          ],
+          "brand": "cream valley",
+          "imageUrl": "https://example.com/products/imagen-fake14.jpg"
+        },
+        "storesIds": []
+      },
+      {
+        "active": true,
+        "baseProductId": null,
+        "clientId": "fakeClient123",
+        "clientProductId": "fakeProduct015",
+        "productId": "DEV_fakeProduct015",
+        "productName": "Desodorante Spray 150ml",
+        "prices": {
+          "DEV_fakeProduct015": 2200
+        },
+        "discounts": {},
+        "metadata": {
+          "EAN": "6789012341567",
+          "measures": [
+            {
+              "value": 150,
+              "type": "milliliters"
+            }
+          ],
+          "brand": "FreshZone",
+          "imageUrl": "https://example.com/products/imagen-fake15.jpg"
+        },
+        "storesIds": []
+      },
+      {
+        "active": true,
+        "baseProductId": null,
+        "clientId": "fakeClient123",
+        "clientProductId": "fakeProduct016",
+        "productId": "DEV_fakeProduct016",
+        "productName": "Magdalena 30gr",
+        "prices": {
+          "DEV_fakeProduct016": 2500
+        },
+        "discounts": {},
+        "metadata": {
+          "EAN": "7890123451678",
+          "measures": [
+            {
+              "value": 30,
+              "type": "grams"
+            }
+          ],
+          "brand": "Magdalena",
+          "imageUrl": "https://example.com/products/imagen-fake16.jpg"
+        },
+        "storesIds": []
+      },
+      {
+        "active": true,
+        "baseProductId": null,
+        "clientId": "fakeClient123",
+        "clientProductId": "fakeProduct017",
+        "productId": "DEV_fakeProduct017",
+        "productName": "Salsa Barbacoa 300g",
+        "prices": {
+          "DEV_fakeProduct017": 1800
+        },
+        "discounts": {},
+        "metadata": {
+          "EAN": "8901234561789",
+          "measures": [
+            {
+              "value": 300,
+              "type": "grams"
+            }
+          ],
+          "brand": "BBQMaster",
+          "imageUrl": "https://example.com/products/imagen-fake17.jpg"
+        },
+        "storesIds": []
+      },
+      {
+        "active": true,
+        "baseProductId": null,
+        "clientId": "fakeClient123",
+        "clientProductId": "fakeProduct018",
+        "productId": "DEV_fakeProduct018",
+        "productName": "Pan Integral 500g",
+        "prices": {
+          "DEV_fakeProduct018": 1200
+        },
+        "discounts": {},
+        "metadata": {
+          "EAN": "9012345671890",
+          "measures": [
+            {
+              "value": 500,
+              "type": "grams"
+            }
+          ],
+          "brand": "NutriPan",
+          "imageUrl": "https://example.com/products/imagen-fake18.jpg"
+        },
+        "storesIds": []
+      },
+      {
+        "active": true,
+        "baseProductId": null,
+        "clientId": "fakeClient123",
+        "clientProductId": "fakeProduct019",
+        "productId": "DEV_fakeProduct019",
+        "productName": "Jugo orgánico greenLife",
+        "prices": {
+          "DEV_fakeProduct019": 1500
+        },
+        "discounts": {},
+        "metadata": {
+          "EAN": "1123456781901",
+          "measures": [
+            {
+              "value": 200,
+              "type": "milliliters"
+            }
+          ],
+          "brand": "GreenLife",
+          "imageUrl": "https://example.com/products/imagen-fake19.jpg"
+        },
+        "storesIds": []
+      },
+      {
+        "active": true,
+        "baseProductId": null,
+        "clientId": "fakeClient123",
+        "clientProductId": "fakeProduct020",
+        "productId": "DEV_fakeProduct020",
+        "productName": "Leche Descremada 1L",
+        "prices": {
+          "DEV_fakeProduct020": 1300
+        },
+        "discounts": {},
+        "metadata": {
+          "EAN": "2234567892012",
+          "measures": [
+            {
+              "value": 200,
+              "type": "milliliters"
+            }
+          ],
+          "brand": "LecheVida",
+          "imageUrl": "https://example.com/products/imagen-fake20.jpg"
+        },
+        "storesIds": []
+      }
+    ]
+  }
+  

@@ -1,0 +1,31 @@
+{
+    "signupResponse": {
+      "UserSub": "mock-user-sub-id",
+      "$metadata": {
+        "httpStatusCode": 200,
+        "requestId": "mock-request-id"
+      }
+    },
+    "loginResponse": {
+      "$metadata": {
+        "httpStatusCode": 200,
+        "requestId": "mock-login-request-id"
+      },
+      "AuthenticationResult": {
+        "AccessToken": "mock-access-token",
+        "ExpiresIn": 3600,
+        "IdToken": "mock-id-token",
+        "RefreshToken": "mock-refresh-token",
+        "TokenType": "Bearer"
+      }
+    },
+    "updatePasswordResponse": {
+      "message": "Password updated successfully.",
+      "success": true
+    },
+    "deleteUserResponse": {
+      "message": "User deleted successfully.",
+      "success": true
+    }
+  }
+  

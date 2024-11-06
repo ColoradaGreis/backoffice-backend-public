@@ -1,0 +1,197 @@
+{
+  "Bebidas, Aguas y Jugos": {
+    "Aguas Minerales": [
+      "Agua Mineral con Gas",
+      "Agua Mineral sin Gas",
+      "Agua Saborizada"
+    ],
+    "Bebidas Energéticas": [],
+    "Bebidas Gaseosas": [
+      "Bebidas Regulares",
+      "Bebidas Light o Zero Azúcar",
+      "Bebidas en Lata e Individuales"
+    ],
+    "Bebidas Isotónicas": [],
+    "Jugos": [
+      "Jugos y Néctar",
+      "Té Líquidos"
+    ]
+  },
+  "Belleza y Cuidado Personal": {
+    "Protección Femenina": [
+      "Protección Menstrual"
+    ],
+    "Cuidado Bucal": [
+      "Cepillo Dental",
+      "Accesorios dentales",
+      "Cepillos y Pasta Dental Infantil"
+    ],
+    "Cuidado Capilar": [
+      "Shampoo",
+      "Tratamiento Capilar",
+      "Acondicionadores"
+    ],
+    "Cuidado de la Piel": [
+      "Cuidado Corporal",
+      "Cuidado Facial"
+    ],
+    "Cuidado Masculino": [
+      "Máquina de Afeitar"
+    ],
+    "Desodorantes": [
+      "Desodorantes Gel y Crema",
+      "Desodorantes en Aerosol"
+    ],
+    "Maquillaje": [
+      "Maquillaje Ojos",
+      "Maquillaje Labios"
+    ]
+  },
+  "Chocolates, Galletas y Dulces": {
+    "Chocolates": [
+      "Chocolates y Tentaciones",
+      "Chocolates en Barra",
+      "Bombones y Trufas"
+    ],
+    "Colaciones": [
+      "Alfajores, Pasteles y Queques",
+      "Colaciones"
+    ],
+    "Dulces": [
+      "Gomitas, Masticables y Chicles"
+    ],
+    "Galletas": [
+      "Galletas Saladas",
+      "Galletas Dulces",
+      "Integrales, Arroz y Otros"
+    ]
+  },
+  "Comidas Preparadas": {
+    "Empanadas y Sándwiches": [
+      "Sándwiches",
+      "Empanadas"
+    ],
+    "Entradas y Ensaladas": [
+      "Ensaladas Preparadas"
+    ],
+    "Pastas y Lasañas": [
+      "Pastas y Lasañas"
+    ],
+    "Pizzas": [
+      "Pizzas refrigeradas"
+    ]
+  },
+  "Desayuno": {
+    "Cereales, Avenas y Barras": [
+      "Avena y Granola",
+      "Barras de Cereal"
+    ],
+    "Manjar, Miel y Mermeladas": [
+      "Mermeladas"
+    ]
+  },
+  "Despensa": {
+    "Aceites, Sal y Condimentos": [
+      "Aceite"
+    ],
+    "Aderezos y Salsas": [
+      "Mayonesa",
+      "Ketchup",
+      "Ají"
+    ],
+    "Cóctel y Snacks": [
+      "Ramitas, Suflés y Otros Snacks",
+      "Papas Fritas",
+      "Snacks Vegetales",
+      "Tortillas",
+      "Maní y Frutos Secos"
+    ],
+    "Conservas": [
+      "Conservas de Pescado",
+      "Comidas Preparadas"
+    ],
+    "Harina y Complementos": [
+      "Harina de Maíz, Sémola y Polenta"
+    ],
+    "Instantaneos y Sopas": [
+      "Comida Instantánea"
+    ],
+    "Pastas y Salsas": [
+      "Lasañas y Rellenos",
+      "Salsas para pastas",
+      "Pastas y Fideos"
+    ],
+    "Repostería": [
+      "Cremas"
+    ]
+  },
+  "Frutas y Verduras": {
+    "Frutas": [
+      "Fruta"
+    ],
+    "Verduras": [
+      "Verdura"
+    ]
+  },
+  "Lácteos": {
+    "Huevos": [
+      "Huevos de Gallina"
+    ],
+    "Leches": [
+      "Leche Líquida"
+    ],
+    "Mantequillas y Margarinas": [
+      "Mantequillas",
+      "Margarinas"
+    ],
+    "Postres": [
+      "Postres Especiales",
+      "Postres Lácteos"
+    ],
+    "Yoghurt": [
+      "Yoghurt con Proteínas",
+      "Yoghurt Batido",
+      "Yoghurt con Cereales y Frutas",
+      "Yoghurt Natural"
+    ]
+  },
+  "Mascotas": {
+    "Gatos": [
+      "Snacks y Salsas",
+      "Alimentos Húmedos Gatos"
+    ],
+    "Perros": [
+      "Alimentos Adultos",
+      "Snacks, Salsas y Huesos"
+    ]
+  },
+  "Panadería y Pastelería": {
+    "Masas y Tortillas": [
+      "Burritos y Tortillas"
+    ],
+    "Panadería envasada": [
+      "Pan de Molde"
+    ],
+    "Pastelería": [
+      "Queques y Magdalenas",
+      "Pastelería Bio"
+    ]
+  },
+  "Quesos y Fiambres": {
+    "Fiambrería": [
+      "Jamones"
+    ],
+    "Quesería": [
+      "Frescos y Quesillos",
+      "Crema y Untables",
+      "Gauda",
+      "Mantecosos y Chanco"
+    ],
+    "Salchichas y Parrilleros": [
+      "Longanizas y Chorizos"
+    ]
+  },
+  "": {
+    "": []
+  }
+}

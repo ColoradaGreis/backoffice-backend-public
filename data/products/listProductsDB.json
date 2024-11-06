@@ -1,0 +1,431 @@
+[
+    {
+    "ean": "1234567890123",
+    "sku_sap": [
+      "19505822"
+    ],
+    "sku_vtex": [
+      "122334331"
+    ],
+    "reite_productId": "DEV_fakeProduct002",
+    "short_name": "Corteza Dental Tabletas Ortodoncia",
+    "long_name": "Corteza Dental Tabletas Ortodoncia",
+    "content_detail": 30,
+    "measure_unit": "un",
+    "brand": "corteza",
+    "proxy_duration": "no perecible",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": true,
+    "first_category": "belleza y cuidado personal",
+    "second_category": "cuidado bucal",
+    "third_category": "accesorios dentales"
+},
+{ "ean": "9876543210987",
+"sku_sap": [
+  "26433443"
+],
+"sku_vtex": [
+  "135931"
+],
+"reite_productId": "DEV_fakeProduct002",
+"short_name": "Aceite Soleado 1 Lt",
+"long_name": "Aceite Soleado 1 Lt",
+"content_detail": 1000,
+"measure_unit": "ml",
+"brand": "soleado",
+"proxy_duration": "no perecible",
+"pack": null,
+"generated_ean": false,
+"autoshoppable_available": false,
+"first_category": "despensa",
+"second_category": "aceites, sal y condimentos",
+"third_category": "aceite"
+},
+{
+    "ean": "1230984567890",
+    "sku_sap": [
+      "49144215"
+    ],
+    "sku_vtex": [
+      "3047"
+    ],
+    "reite_productId": "DEV_fakeProduct003",
+    "short_name": "Agua con Gas Ficticia 600ml",
+    "long_name": "Agua con Gas Ficticia 600ml",
+    "content_detail": 600,
+    "measure_unit": "ml",
+    "brand": "AquaPura",
+    "proxy_duration": "no perecible",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": false,
+    "first_category": "bebidas, aguas y jugos",
+    "second_category": "aguas minerales",
+    "third_category": "agua mineral con gas"
+  },
+  {
+    "ean": "9876123450987",
+    "sku_sap": [
+      "49125516"
+    ],
+    "sku_vtex": [
+      "3356"
+    ],
+    "reite_productId": "DEV_fakeProduct004",
+    "short_name": "Agua sin Gas Ficticia 600ml",
+    "long_name": "Agua sin Gas Ficticia 600ml",
+    "content_detail": 600,
+    "measure_unit": "ml",
+    "brand": "AquaPura",
+    "proxy_duration": "no perecible",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": false,
+    "first_category": "bebidas, aguas y jugos",
+    "second_category": "aguas minerales",
+    "third_category": "agua mineral sin gas"
+  },
+  {
+    "ean": "1234509876543",
+    "sku_sap": [],
+    "sku_vtex": [],
+    "reite_productId": "DEV_fakeProduct005",
+    "short_name": "Alfajor DulceBite 40 gr",
+    "long_name": "Alfajor DulceBite 40 gr",
+    "content_detail": 40,
+    "measure_unit": "gr",
+    "brand": "DulceBite",
+    "proxy_duration": "no perecible",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": false,
+    "first_category": "chocolates, galletas y dulces",
+    "second_category": "colaciones",
+    "third_category": "alfajores, pasteles y queques"
+  },
+  {
+    "ean": "1029384756102",
+    "sku_sap": [
+      "18406756001"
+    ],
+    "sku_vtex": [
+      "85065602"
+    ],
+    "reite_productId": "fakeProduct006",
+    "short_name": "Café Negro Premium 500g",
+    "long_name": "Café Negro Premium 500g",
+    "content_detail": 500,
+    "measure_unit": "gr",
+    "brand": "CafeSol",
+    "proxy_duration": "no perecible",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": true,
+    "first_category": "lácteos",
+    "second_category": "leches",
+    "third_category": "leche líquida"
+  },
+  {
+    "ean": "1092837465102",
+    "sku_sap": [],
+    "sku_vtex": [],
+    "reite_productId": "DEV_fakeProduct007",
+    "short_name": "Cereal CrocMix 700g",
+    "long_name": "Cereal CrocMix 700g",
+    "content_detail": 700,
+    "measure_unit": "gr",
+    "brand": "CrocMix",
+    "proxy_duration": "no perecible",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": false,
+    "first_category": "desayuno",
+    "second_category": "cereales, avenas y barras",
+    "third_category": "avena y granola"
+  },
+  {
+    "ean": "9871234567801",
+    "sku_sap": [],
+    "sku_vtex": [],
+    "reite_productId": "DEV_fakeProduct008",
+    "short_name": "Chocolate Cacao Delicioso 100g",
+    "long_name": "Chocolate Cacao Delicioso 100g",
+    "content_detail": 100,
+    "measure_unit": "gr",
+    "brand": "Delicioso",
+    "proxy_duration": "no perecible",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": false,
+    "first_category": "chocolates, galletas y dulces",
+    "second_category": "galletas",
+    "third_category": "galletas dulces"
+  },
+  {
+    "ean": "5647382910012",
+    "sku_sap": [
+      "99234551"
+    ],
+    "sku_vtex": [
+      "333455"
+    ],
+    "reite_productId": "DEV_fakeProduct009",
+    "short_name": "Pasta Integral 500g",
+    "long_name": "Pasta Integral 500g",
+    "content_detail": 500,
+    "measure_unit": "gr",
+    "brand": "FitPasta",
+    "proxy_duration": "no perecible",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": true,
+    "first_category": "despensa",
+    "second_category": "pastas y salsas",
+    "third_category": "salsas para pastas"
+  },
+  {
+    "ean": "1234567890112",
+    "sku_sap": [
+      "17349912",
+      "17349911",
+      "17349913"
+    ],
+    "sku_vtex": [
+      "557404",
+      "557403",
+      "557405"
+    ],
+    "reite_productId": "DEV_fakeProduct010",
+    "short_name": "Jugo Tropical Frutal 1L",
+    "long_name": "Jugo Tropical Frutal 1L",
+    "content_detail": 1000,
+    "measure_unit": "ml",
+    "brand": "FrutiTrop",
+    "proxy_duration": "no perecible",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": true,
+    "first_category": "bebidas, aguas y jugos",
+    "second_category": "jugos",
+    "third_category": "jugos y néctar"
+  },
+  {
+    "ean": "2345678901123",
+    "sku_sap": [
+      "5505822"
+    ],
+    "sku_vtex": [
+      "109682"
+    ],
+    "reite_productId": "DEV_fakeProduct011",
+    "short_name": "queso mantecoso 250gr",
+    "long_name": "queso mantecoso 250gr",
+    "content_detail": 250,
+    "measure_unit": "gr",
+    "brand": "quesoMax",
+    "proxy_duration": "media",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": true,
+    "first_category": "quesos y fiambres",
+    "second_category": "quesería",
+    "third_category": "mantecosos y chanco"
+  },
+  {
+    "ean": "3456789011234",
+    "sku_sap": [
+      "182254579",
+      "18252582"
+    ],
+    "sku_vtex": [
+      "814830",
+      "814379"
+    ],
+    "reite_productId": "fakeProduct012",
+    "short_name": "Shampoo Cabello Seco 400ml",
+    "long_name": "Shampoo Cabello Seco 400ml",
+    "content_detail": 400,
+    "measure_unit": "ml",
+    "brand": "HairPlus",
+    "proxy_duration": "no perecible",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": true,
+    "first_category": "belleza y cuidado personal",
+    "second_category": "cuidado capilar",
+    "third_category": "shampoo"
+  },
+  {
+    "ean": "4567890121345",
+    "sku_sap": [],
+    "sku_vtex": [],
+    "reite_productId": "DEV_fakeProduct013",
+    "short_name": "Galletas de Chocolate 150g",
+    "long_name": "Galletas de Chocolate 150g",
+    "content_detail": 150,
+    "measure_unit": "gr",
+    "brand": "ChocoCrunch",
+    "proxy_duration": "no perecible",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": false,
+    "first_category": "chocolates, galletas y dulces",
+    "second_category": "galletas",
+    "third_category": "galletas dulces"
+  },
+  {
+    "ean": "5678901231456",
+    "sku_sap": [
+      "3380665"
+    ],
+    "sku_vtex": [
+      "66285"
+    ],
+    "reite_productId": "DEV_fakeProduct014",
+    "short_name": "Crema Variedades 200ml",
+    "long_name": "Crema Variedades 200ml",
+    "content_detail": 200,
+    "measure_unit": "ml",
+    "brand": "cream valley",
+    "proxy_duration": "no perecible",
+    "pack": [
+      6
+    ],
+    "generated_ean": false,
+    "autoshoppable_available": true,
+    "first_category": "despensa",
+    "second_category": "repostería",
+    "third_category": "cremas"
+  },
+  {
+    "ean": "6789012341567",
+    "sku_sap": [],
+    "sku_vtex": [],
+    "reite_productId": "DEV_fakeProduct015",
+    "short_name": "Desodorante Spray 150ml",
+    "long_name": "Desodorante Spray 150ml",
+    "content_detail": 150,
+    "measure_unit": "gmlr",
+    "brand": "FreshZone",
+    "proxy_duration": "no perecible",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": false,
+    "first_category": "belleza y cuidado personal",
+    "second_category": "desodorantes",
+    "third_category": "desodorantes gel y crema"
+  },
+  {
+    "ean": "7890123451678",
+    "sku_sap": [
+      "19386387"
+    ],
+    "sku_vtex": [
+      "12163443"
+    ],
+    "reite_productId": "DEV_fakeProduct016",
+    "short_name": "Magdalena un",
+    "long_name": "Magdalena 30gr",
+    "content_detail": 30,
+    "measure_unit": "gr",
+    "brand": "marinela",
+    "proxy_duration": "media",
+    "pack": [
+      8
+    ],
+    "generated_ean": false,
+    "autoshoppable_available": true,
+    "first_category": "panadería y pastelería",
+    "second_category": "pastelería",
+    "third_category": "queques y magdalenas"
+  },
+  {
+    "ean": "8901234561789",
+    "sku_sap": [],
+    "sku_vtex": [],
+    "reite_productId": "DEV_fakeProduct017",
+    "short_name": "Salsa Barbacoa 300g",
+    "long_name": "Salsa Barbacoa 300g",
+    "content_detail": 300,
+    "measure_unit": "gr",
+    "brand": "BBQMaster",
+    "proxy_duration": "no perecible",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": false,
+    "first_category": "despensa",
+    "second_category": "aderezos y salsas",
+    "third_category": "mayonesa"
+  },
+  {
+    "ean": "9012345671890",
+    "sku_sap": [
+      "1734234667"
+    ],
+    "sku_vtex": [
+      "5398343"
+    ],
+    "reite_productId": "DEV_fakeProduct018",
+    "short_name": "Pan Integral 500g",
+    "long_name": "Pan Integral 500g",
+    "content_detail": 500,
+    "measure_unit": "gr",
+    "brand": "NutriPan",
+    "proxy_duration": "corta",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": true,
+    "first_category": "panadería y pastelería",
+    "second_category": "panadería envasada",
+    "third_category": "pan de molde"
+  },
+  {
+    "ean": "1123456781901",
+    "sku_sap": [
+      "17339912",
+      "17393911",
+      "17393913"
+    ],
+    "sku_vtex": [
+      "557304",
+      "557303",
+      "557305"
+    ],
+    "reite_productId": "DEV_fakeProduct019",
+    "short_name": "Jugo orgánico greenLife",
+    "long_name": "Jugo orgánico greenLife",
+    "content_detail": 200,
+    "measure_unit": "ml",
+    "brand": "greenLife",
+    "proxy_duration": "no perecible",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": true,
+    "first_category": "bebidas, aguas y jugos",
+    "second_category": "jugos",
+    "third_category": "jugos y néctar"
+  },
+  {
+    "ean": "2234567892012",
+    "sku_sap": [
+      "30254768"
+    ],
+    "sku_vtex": [
+      "66945"
+    ],
+    "reite_productId": "DEV_fakeProduct020",
+    "short_name": "Leche Descremada 200 ml",
+    "long_name": "Leche Descremada 200ml",
+    "content_detail": 200,
+    "measure_unit": "ml",
+    "brand": "LecheVida",
+    "proxy_duration": "no perecible",
+    "pack": null,
+    "generated_ean": false,
+    "autoshoppable_available": true,
+    "first_category": "lácteos",
+    "second_category": "leches",
+    "third_category": "leche líquida"
+  }
+]
