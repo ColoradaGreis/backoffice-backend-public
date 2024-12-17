@@ -26,7 +26,7 @@ module.exports = {
       }
       next()
     } catch (e) {
-      return expressErrorHandler(e, req, res)
+      next(e) 
     }
   }
 }
